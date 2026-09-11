@@ -5,6 +5,6 @@ Venue: Amphitheatre
 Organizer: INFT Department
 College: VESIT
 
-
+QR Attendance feature - Planned
 
 
