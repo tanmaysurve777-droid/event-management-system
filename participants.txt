@@ -1,0 +1,28 @@
+Participant ID: P001
+Name: Lucky Sukheja
+Event: Tech Fest
+Registration Status: Registered
+
+Participant ID: P002
+Name: Tanmay Surve
+Event: Tech Fest
+Registration Status: Registered
+
+Participant ID: P003
+Name: Krushi Vaid
+Event: Tech Fest
+Registration Status: Registered
+
+Participant ID: P001
+Name: Anjali Vishwakarma
+Event: Tech Fest
+Registration Status: Registered
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+Event ID: E001
+Event Name: Tech Fest
+Date: 15 September 2026
+Venue: Amphitheatre
+Organizer: INFT Department
+College: VESIT
+
+
+
+
